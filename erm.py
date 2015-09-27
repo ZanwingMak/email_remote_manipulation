@@ -1,4 +1,5 @@
 #coding:utf-8
+__author__ = 'm9Kun'
 
 import msvcrt
 from ctypes import *
